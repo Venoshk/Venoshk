@@ -1,4 +1,4 @@
-## Oi me chamo Paulo, sou desenvolverdor Front-end!
+## Oi me chamo Paulo, sou desenvolverdor Full-Stack!
 
 Apaixonado por tecnologia e sempre em busca do impossível, pois só se torna impossível se não for tentado.
 ##
