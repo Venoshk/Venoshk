@@ -25,6 +25,6 @@ Apaixonado por tecnologia e sempre em busca do impossível, pois só se torna im
   
 </div>
 
-- 📖 Estou estudando TypeScript
+- 📖 Estou estudando Java
 - 😄 Pronomes: Ele/Dele
 
