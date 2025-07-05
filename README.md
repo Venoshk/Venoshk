@@ -14,8 +14,6 @@ Apaixonado por tecnologia e sempre em busca do impossível, pois só se torna im
   <img align="center" alt="Paulo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Paulo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Paulo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Paulo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgre
-el/postgrel-original.svg">
 </div>
 
 ##
