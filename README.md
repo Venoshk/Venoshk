@@ -1,43 +1,34 @@
-Oi me chamo Paulo, sou desenvolvedor Full-Stack!
+# Olá, eu sou o Paulo! 👋
 
-Apaixonado por tecnologia e sempre em busca do impossível, pois só se torna impossível se não for tentado.
+Desenvolvedor Full-Stack focado em **Automação de Processos**, **Web Scraping** e **Sistemas Corporativos**. Especialista em transformar fluxos complexos em soluções eficientes.
 
-🌍 **Meu Portfólio:** [venoshk.com.br](https://portifolio-five-ochre-37.vercel.app/)
+[🌍 Acesse meu Portfólio](https://essensaude.com.br) • [📧 Entre em contato](mailto:venoshk.henrique@gmail.com)
 
-## 🛠️
-- 🤖 **Automação & Web Scraping:** Experiência em extração de dados e automação de processos complexos (Python, SeleniumBase, Playwright).
-- ⚙️ **Backend:** Desenvolvimento de sistemas robustos com Java (Spring Boot) e Python (Django).
-- 🎨 **Frontend:** Criação de interfaces modernas com Angular (PrimeNG) e React.
+---
 
+### 🛠️ Core Stack
+**Backend & Infra:** Java (Spring Boot), Python (Django/Selenium/Playwright), Oracle, PostgreSQL, Docker, AWS e GitLab.  
+**Frontend:** Angular, React, TypeScript e Tailwind CSS.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Paulo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Paulo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Paulo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Paulo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Paulo-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Paulo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<br/>
+
+<div style="display: inline_block">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,ts,angular,react,mysql,postgres,docker,github,gitlab&theme=dark" />
 </div>
 
-##
+<br/>
+---
 
-<div> 
-  <a href="https://portifolio-five-ochre-37.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
+### 📫 Vamos nos conectar?
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/venoshk_moon/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-0077B5?style=flat-square&logo=google-chrome&logoColor=white)](https://essensaude.com.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venoshk.henrique@gmail.com)
 
-  <a href="https://www.instagram.com/venoshk_moon/?utm_source=qr&igsh=OXVzeGV4amVxd3Vk" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href="mailto:venoshk.henrique@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+<br/>
 
-- 📖 Estou estudando Java & Soluções em Cloud
-- 😄 Pronomes: Ele/Dele
+> "O impossível só se torna impossível se não for tentado."
+
+---
+<p align="center">
+  📖 Estudando Java & Cloud Solutions | 😄 Ele/Dele
+</p>
